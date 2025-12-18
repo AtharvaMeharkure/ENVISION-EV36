@@ -8,7 +8,7 @@
 # -----------------------------
 # Run these commands in terminal:
 # pip install selenium pandas beautifulsoup4 lxml webdriver-manager
-
+#hi
 # -----------------------------
 # IMPORT LIBRARIES
 # -----------------------------
